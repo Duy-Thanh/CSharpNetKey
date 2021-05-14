@@ -1,0 +1,9 @@
+F:\CSharpNetKey\CSharpNetKey\bin\Release\CSharpNetKey.exe.config
+F:\CSharpNetKey\CSharpNetKey\bin\Release\CSharpNetKey.exe
+F:\CSharpNetKey\CSharpNetKey\bin\Release\CSharpNetKey.pdb
+F:\CSharpNetKey\CSharpNetKey\obj\Release\CSharpNetKey.frmMain.resources
+F:\CSharpNetKey\CSharpNetKey\obj\Release\CSharpNetKey.Properties.Resource1.resources
+F:\CSharpNetKey\CSharpNetKey\obj\Release\CSharpNetKey.csproj.GenerateResource.cache
+F:\CSharpNetKey\CSharpNetKey\obj\Release\CSharpNetKey.csproj.CoreCompileInputs.cache
+F:\CSharpNetKey\CSharpNetKey\obj\Release\CSharpNetKey.exe
+F:\CSharpNetKey\CSharpNetKey\obj\Release\CSharpNetKey.pdb
